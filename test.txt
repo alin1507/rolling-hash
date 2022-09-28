@@ -1,0 +1,1 @@
+Some text is written here to test the app is working properly
